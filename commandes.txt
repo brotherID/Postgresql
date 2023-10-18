@@ -1,0 +1,1 @@
+C:\Program Files\PostgreSQL\13\pgAdmin 4\bin  -> pgAdmin4.exe  ( pour ouvrir pgAdmin)
